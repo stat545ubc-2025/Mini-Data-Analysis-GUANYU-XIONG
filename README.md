@@ -8,35 +8,7 @@ The project uses datasets from the `datateachr` package and focuses on data wran
 
 
 
-\## How to Use This Repository
+Milestone1 completed on October 3rd. About knowing dataset and I chosed apartment dataset.
 
-
-
-\- The analysis is documented in R Markdown (`.Rmd`) files.  
-
-\- To follow along, open the `.Rmd` file in RStudio and knit it to a GitHub document (`.md`).  
-
-\- The knitted `.md` files are also included in the repo, so you can read the results directly on GitHub without running any code.  
-
-\- All code uses the \*\*tidyverse\*\* approach (`dplyr`, `ggplot2`, etc.), consistent with what we learned in STAT 545A.  
-
-
-
-\## Contents
-
-
-
-\- `mini-project-1.Rmd` / `mini-project-1.md`: Milestone 1 – choosing datasets, exploring structure, visualizing distributions, handling missing values, and exploring relationships between variables.  
-
-\- Additional files will appear here as the project progresses.  
-
-
-
----
-
-
-
-This project demonstrates fundamental data wrangling, tidying, and visualization skills in R using real-world open datasets.
-
-
+Milestone2 completed on October 21st. About doing futher exploration based on 4 research question proposed in milestone 1.
 
